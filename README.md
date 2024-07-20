@@ -21,7 +21,7 @@ Suba tudo em um repositório e faça a entrega.
 1. Executar o comando `docker-compose` para subir os containers:
 
 ```bash
-docker-compose up 
+docker-compose up -d
 ```
 
 2. Acessar a aplicação em seu browser:
